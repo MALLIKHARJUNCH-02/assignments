@@ -1,5 +1,4 @@
 
-````markdown
 # 📘 Combined Documentation – Assignment 1 & Assignment 2
 
 ## Table of Contents
@@ -47,7 +46,6 @@ A responsive **frontend dashboard** built with **React.js**, featuring user auth
 - JSON Server installed globally:
   ```bash
   npm install -g json-server
-````
 
 <a id="a1-getting-started"></a>
 
