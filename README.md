@@ -1,7 +1,6 @@
 
 # 📘 Combined Documentation – Assignment 1 & Assignment 2
-
-
+![Documentation](./Combined_Assignment_Documentation_OneVarsity.pdf)
 ## Assignment Structure
 
 ```
