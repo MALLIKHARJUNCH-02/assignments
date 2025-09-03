@@ -1,0 +1,25 @@
+/* Table.module.css */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+}
+
+.table th,
+.table td {
+  text-align: left;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+}
+
+.table th {
+  background-color: #007bff;
+  color: white;
+}
+
+.noData {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+}
