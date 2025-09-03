@@ -1,6 +1,20 @@
 
 # 📘 Combined Documentation – Assignment 1 & Assignment 2
 
+
+## Assignment Structure
+
+```
+OneVarsity/
+  ├── /Mallikharjun
+  |      ├── /assignment1
+  |      ├── /assignment2
+  ├── /json-server-assignment1_backend
+  ├── /json-server-assignment2_backend
+  ├── * .png
+README.md
+```
+
 ## Table of Contents
 - [Assignment 1 – React Dashboard Application](#assignment-1-react-dashboard-application)
   - [Features](#a1-features)
