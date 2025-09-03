@@ -270,5 +270,3 @@ README.md
 
 👨‍💻 **Chilukuri Mallikharjun Reddy**
 🔗 [https://github.com/MALLIKHARJUNCH-02](https://github.com/MALLIKHARJUNCH-02)
-
-```
